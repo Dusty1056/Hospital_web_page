@@ -8,7 +8,6 @@ This is a basic HTML and CSS template for a hospital web page. The template incl
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
